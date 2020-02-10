@@ -1,7 +1,7 @@
 # status.vtr.pt
-## App Status Page
+## Status Page for all my Websites/Apps
 
-##### This is the fifth part of a 100 day coding challenge focused on web-development
+##### This is the sixth part of a 100 day coding challenge focused on web-development
 
 ###### Day 0-81
 - Working on Other Projects
