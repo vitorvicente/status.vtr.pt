@@ -115,3 +115,9 @@ header.masthead .page-heading .subheading,header.masthead .site-heading .subhead
   margin: 0 0 20px 0;
   padding: 0;
 }
+
+.boxes i {
+  color: #007bff;
+  padding-top: 20px;
+  font-size: 75px;
+}
