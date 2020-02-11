@@ -6,6 +6,9 @@
 ###### Day 0-81
 - Working on Other Projects
 
-###### Day 72
+###### Day 82
 - Initial File Upload
 - License & README
+
+###### Day 83
+- Main content HTML & CSS
